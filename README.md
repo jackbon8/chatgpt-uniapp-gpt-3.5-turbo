@@ -1,5 +1,5 @@
 # chatgpt-中文小程序
-# 切换到master 拉取源码
+
 # 原谅我的粗鲁 大道至简~
 界面预览
 ![火狐截图_2023-02-26T04-43-43 059Z](https://user-images.githubusercontent.com/43921493/221406804-2acf796c-23a2-4dfc-af9e-c495db778668.png)
@@ -15,7 +15,7 @@
 </br>
 <img src="http://400258.cn/bc.jpg" alt="drawing" width="250"/>
 </br>
-
+# 切换到master 拉取【前端】源码
 ##  关于ChatGPT接口
 
 >ChatGPT需要梯子才能访问，后端已经完成接口对接，
