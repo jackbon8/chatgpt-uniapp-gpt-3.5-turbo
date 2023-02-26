@@ -10,7 +10,7 @@
 >>前端:```uniapp```   ```uview```
 >>>后端:```PHP``` ```mysql```  ```redis```
 
-##  你是我的好朋友
+##  添加微信 请扫码下图
 </br>
 <img src="http://400258.cn/bc.jpg" alt="drawing" width="250"/>
 </br>
