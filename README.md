@@ -1,6 +1,6 @@
 # chatgpt-中文小程序
 
-# 原谅我的粗鲁 大道至简~
+# 原谅我的粗鲁 源码往下看~
 界面预览
 ![火狐截图_2023-02-26T04-43-43 059Z](https://user-images.githubusercontent.com/43921493/221406804-2acf796c-23a2-4dfc-af9e-c495db778668.png)
 
