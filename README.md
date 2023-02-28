@@ -11,7 +11,7 @@
 >>前端:```uniapp```   ```uview```
 >>>后端:```PHP``` ```mysql```  ```redis```
 
-##  添加微信 请扫码下图
+##  添加微信 请扫码下图 白嫖不招待！
 </br>
 <img src="http://400258.cn/bc.jpg" alt="drawing" width="250"/>
 </br>
