@@ -49,7 +49,7 @@
 				   return false;
 			   }
 			   uni.login({
-			     provider: 'weixin', //使用微信登录
+			     provider: 'weixin', 
 			     success: function (loginRes) {
 			   	uni.request({
 			   		url:'/api/aichat/miniapplogin',
