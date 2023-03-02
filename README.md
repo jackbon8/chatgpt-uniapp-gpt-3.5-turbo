@@ -1,6 +1,7 @@
-# chatgpt-中文小程序
+# chatgpt-中文小程序-gpt-3.5-turbo
 
-# 原谅我的粗鲁 源码往下看~
+# 无限制访问 不担心城墙  不用vpn  加微信可体验 ~
+# reame更新2023.03.03 00:31:55
 界面预览
 ![火狐截图_2023-02-26T04-43-43 059Z](https://user-images.githubusercontent.com/43921493/221406804-2acf796c-23a2-4dfc-af9e-c495db778668.png)
 
